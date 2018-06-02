@@ -3,7 +3,7 @@ import time
 def rename_files():
     savedpath=(os.getcwd())
     #get all the file names from a folder
-    filelist=os.listdir(r"C:\Users\HP\Desktop\Test") #here r indicated RAWPACK
+    filelist=os.listdir(r"C:\Users\HP\Desktop\Test") #here r indicates RAWPACK, You need to put your system path here
     #print(filelist)
     os.chdir(r"C:\Users\HP\Desktop\Test")
     #rename files
