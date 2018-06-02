@@ -1,4 +1,4 @@
-# My Python Scripts [![Python](http://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/python-icon.png)](http://www.iconarchive.com/show/papirus-apps-icons-by-papirus-team/python-icon.html{:target="_blank"}
+# My Python Scripts [![Python](http://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/python-icon.png)](http://www.iconarchive.com/show/papirus-apps-icons-by-papirus-team/python-icon.html)
 Just another repository to showcase some interesting Python scripts. I write Python to make me happy. :)
 
 ##### Hope you'll like some of them.
@@ -14,4 +14,4 @@ _One Line Instructions on the basic utility of the script. Try them out to know 
 | [TakeABreak](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/take_a_break.py)| Similar to the first one (Break). |
 
 --------------------------------------
-##### Find me here [![LinkedIn](http://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png)](https://www.linkedin.com/in/amitrajitbose/){:target="_blank"}
+##### Find me here [![LinkedIn](http://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png)](https://www.linkedin.com/in/amitrajitbose/)
