@@ -12,6 +12,7 @@ _One Line Instructions on the basic utility of the script. Try them out to know 
 | [Break](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/Break.py) | Reminds you to take a break at regular time intervals. |
 | [Renamer](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/renamefiles.py) | Operates on multiple files to remove digits from the beginning of the file name on a single click. |
 | [TakeABreak](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/take_a_break.py)| Similar to the first one (Break). |
+| [B/W Filter](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/GrayScale.py)| Take any image any converts it to black and white, in gray scale format. |
 
 --------------------------------------
 ##### Find me here [![LinkedIn](http://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png)](https://www.linkedin.com/in/amitrajitbose/)
