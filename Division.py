@@ -10,7 +10,13 @@ def divide(a,b):
 		#time.sleep(2)
 		exit()
 
-x=int(input("Enter Numerator: "))
-y=int(input("Enter Denominator: "))
-print(divide(x,y))
+x=(input("Enter Numerator: "))
+y=(input("Enter Denominator: "))
+try:
+	x=int(x)
+	y=int(y)
+	print(divide(x,y))
+except ValueError:
+		print("You have to enter an integer!")
+		exit()
 #time.sleep(2)

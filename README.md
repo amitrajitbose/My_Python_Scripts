@@ -13,7 +13,7 @@ _One Line Instructions on the basic utility of the script. Try them out to know 
 | [Renamer](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/renamefiles.py) | Operates on multiple files to remove digits from the beginning of the file name on a single click. |
 | [TakeABreak](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/take_a_break.py)| Similar to the first one (Break). |
 | [B/W Filter](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/GrayScale.py)| Takes an image and converts it to black and white, in gray scale format. |
-| [Error Free Division](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/Division.py)| Divide two numbers, without crashing the program when denominator is zero. |
+| [Error Free Division](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/Division.py)| Divide two numbers, by handling errors, without crashing the program. |
 
 --------------------------------------
 ##### Find me here [![LinkedIn](http://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png)](https://www.linkedin.com/in/amitrajitbose/)
