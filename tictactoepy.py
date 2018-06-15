@@ -22,8 +22,8 @@ print("\nFIRST PLAYER TAKES 'X'\n__________________________")
 print("\nEnter position: ",end="")
 p=str(input())
 if(p=='Q' or p=='q'):
-		print("CLOSING BOARD...CLOSED")
-		exit()
+	print("CLOSING BOARD...CLOSED")
+	exit()
 board[p]='X'
 printBoard(board)
 
