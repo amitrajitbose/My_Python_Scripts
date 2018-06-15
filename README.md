@@ -15,6 +15,8 @@ _One Line Instructions on the basic utility of the script. Try them out to know 
 | [B/W Filter](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/GrayScale.py)| Takes an image and converts it to black and white, in gray scale format. |
 | [Error Free Division](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/Division.py)| Divide two numbers, by handling errors, without crashing the program. |
 | [Guess The Number](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/GuessTheNumber.py)| Number guessing game. |
+| [Character Counter](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/CharCount.py)| Count the frequency of each character in a text. |
+| [Console TicTacToe](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/tictactoepy.py)| Tic Tac Toe game simulation, runs on console, two player game. |
 
 --------------------------------------
 ##### Find me here [![LinkedIn](http://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png)](https://www.linkedin.com/in/amitrajitbose/)
