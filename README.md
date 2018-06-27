@@ -18,7 +18,7 @@ _One Line Instructions on the basic utility of the script. Try them out to know 
 | [Character Counter](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/CharCount.py)| Count the frequency of each character in a text. |
 | [Console TicTacToe](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/tictactoepy.py)| Tic Tac Toe game simulation, runs on console, two player game. |
 | [Excel Based Classifier](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/excelBasedClassification.py)| Separates a master folder, containing randomly named files to separate classes on the basis of an Excel (.xlsx) sheet. |
-| [Image-Array Conversion](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/imageToArray.ipynb)| Converts an image to 2D and 3D numpy arrays. This is a useful process for image analysis in image processing project process. |
+| [Image-Array Conversion](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/imageToArray.ipynb)| Converts an image to 2D and 3D numpy arrays. This is a useful process for image analysis in image processing projects. |
 
 --------------------------------------
 ##### Find me here [![LinkedIn](http://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png)](https://www.linkedin.com/in/amitrajitbose/)
