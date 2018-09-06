@@ -21,5 +21,6 @@ _One Line Instructions on the basic utility of the script. Try them out to know 
 | [Image-Array Conversion](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/imageToArray.ipynb)| Converts an image to 2D and 3D numpy arrays. This is a useful process for image analysis in image processing projects. |
 | [Draw Flower](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/drawFlower.py)| Uses the turtle module of Python to draw a cute little and simple flower-like graphic. |
 | [Sentiment Analyser](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/SentimentMarker.py)| Given an excel sheet that contains data/reviews/tweets, this script will analyse it and generate report in the form of an extra column in the a new excel sheet for each row. |
+| [Folder Renamer](https://github.com/amitrajitbose/My_Python_Scripts/blob/master/renamefolders.py) | Operates on multiple folders to rename them on the basis of an excel sheet. |
 --------------------------------------
 ##### Find me here [![LinkedIn](http://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png)](https://www.linkedin.com/in/amitrajitbose/)
